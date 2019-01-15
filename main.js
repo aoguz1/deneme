@@ -1,6 +1,5 @@
-function yazdir() {
+function yaz() {
     
     console.log("merhaba");
-    
 
 }

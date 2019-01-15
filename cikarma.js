@@ -1,5 +1,5 @@
-function cikarma(x,y) {
+function carpma(x,y) {
 	// body...
-	return x-y;
+	return x*y;
 
 }
